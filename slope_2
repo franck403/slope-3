@@ -1,0 +1,16 @@
+<html lang="en" data-color-mode="auto"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="none">
+<meta name="user-login" content="">
+<title>Slope 2 Unblocked</title>
+<link rel="stylesheet" type="text/css" media="all" href="css/slope_2.css">
+</head>
+<body>
+<div class="webgl-content">
+    <div id="gameContainer" style="padding: 0px; margin: 0px; border: 0px; position: relative; background: url(&quot;/Build/Slope 2.jpg&quot;) center center / cover;"><canvas id="#canvas" width="1583" height="792" style="cursor: default;"></canvas><div class="logo Dark" style="display: none;"></div><div class="progress Dark" style="display: none;"><div class="empty" style="width: 0%;"></div><div class="full" style="width: 100%;"></div></div></div>
+</div>
+<script src="js/UnityProgress.js"></script>
+<script src="js/slope_2.js"></script>
+
+<script src="blob:chrome-extension://fdackkjnldiakboejajeleaoicipfnpo/a87d97ee-f7d0-4b91-bdd8-37150ecdb6f8"></script></body></html>
